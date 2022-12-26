@@ -37,3 +37,9 @@ sudo apt-get install python-pip
 
 sudo pip install matplotlib
 ```
+
+Once you have the libraries, you must be able to run the program!
+
+Please be sure to know the theory of Taylor Polynomials first!
+
+
