@@ -12,19 +12,13 @@ You can do it in your command prompt using
 pip3 install sympy
 ```
 
-~~~~~~~~~~~~~~~~~~~
-
 ```
 pip3 install numpy
 ```
 
-~~~~~~~~~~~~~~~~~~~
-
 ```
 pip3 install python-pip
-```
 
-```
 pip3 install matplotlib
 ```
 
@@ -34,18 +28,12 @@ Also you can do it in Linux Shell
 sudo apt install python3-numpy
 ```
 
-~~~~~~~~~~~~~~~~~~~
-
 ```
 sudo apt install python3-sympy
 ```
 
-~~~~~~~~~~~~~~~~~~~
-
 ```
 sudo apt-get install python-pip
-```
 
-```
 sudo pip install matplotlib
 ```
