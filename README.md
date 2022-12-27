@@ -43,3 +43,4 @@ Once you have the libraries, you must be able to run the program!
 Please be sure to know the theory of Taylor Polynomials first!
 
 
+*FEEL FREE TO ADD OR CHANGE THE CODE TO IMPROVE IT*
