@@ -1,19 +1,19 @@
 #TAYLOR POLYNOMIAL
 
+from function import *
+
+
 #Libraries.
 
 import numpy as np
 import sympy as sym
-import matplotlib.pyplot as plt
 
-from sympy.parsing.sympy_parser import parse_expr #Function to read input and make it an ecuation.
-
-from function import *
+from sympy.parsing.sympy_parser import parse_expr #Function to read input and make it an equation.
 
 
 #Data.
 
-fx = parse_expr(input("Input ecuation: "))
+fx = parse_expr(input("Input equation: "))
 
 x0 = int(input("Input x0: "))
 

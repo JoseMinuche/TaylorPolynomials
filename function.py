@@ -22,16 +22,16 @@ def polytaylor(fx, x0, n):
     polynomial = 0
 
     while (k <= n):
-        dev = fx.diff(x,k)
-        devx0 = dev.subs(x,x0)
+        dif = fx.diff(x,k)
+        difx0 = dif.subs(x,x0)
         divisor = np.math.factorial(k)
-        termk = (devx0 / divisor) * (x-x0) ** k
+        termk = (difx0 / divisor) * (x-x0) ** k
         polynomial = polynomial + termk
         k += 1
 
     return (polynomial)
 
 """
-PLEASE LOOK UP ABOUT THE VARIABLES -> README
+PLEASE LOOK UP ABOUT THE VARIABLES
 """
 

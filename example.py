@@ -2,19 +2,18 @@
 
 from function import *
 
+
 #Libraries
 
 import numpy as np
 import sympy as sym
-#import matplotlib.pyplot as plt
+
 
 #Data.
 
-#x = sym.Symbol('x')
-
 fx = (sym.cos(x)) / (2 * (1 + sym.cos(x))) #Function.
 
-x0 = 0
+x0 = 0 #x0
 
 n = 2 #Degree n.
 
