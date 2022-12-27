@@ -1,6 +1,9 @@
+#TAYLOR POLYNOMIAL
+
 """
-TAYLOR POLYNOMIAL
+Made by Jose Minuche
 """
+
 
 #Libraries.
 
@@ -32,6 +35,6 @@ def polytaylor(fx, x0, n):
     return (polynomial)
 
 """
-PLEASE LOOK UP ABOUT THE VARIABLES
+PLEASE LOOK UP ABOUT THE VARIABLES AND DEFINITIONS!
 """
 

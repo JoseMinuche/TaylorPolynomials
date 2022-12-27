@@ -44,3 +44,6 @@ Please be sure to know the theory of Taylor Polynomials first!
 
 
 *FEEL FREE TO ADD OR CHANGE THE CODE TO IMPROVE IT*
+
+Author: [JoseMinuche](https://github.com/JoseMinuche?tab=repositories)
+Mailme: **jvminuche@gmail.com**

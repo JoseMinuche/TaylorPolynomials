@@ -1,5 +1,10 @@
 #TAYLOR POLYNOMIAL
 
+"""
+Made by Jose Minuche.
+"""
+
+
 from function import *
 
 
